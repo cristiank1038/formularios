@@ -1,0 +1,11 @@
+pip install pipenv
+
+pipenv install flask
+py -m pipenv install flask
+python -m pipenv install flask
+
+pipenv shell
+py -m pipenv shell
+python -m pipenv shell
+
+python server.py
